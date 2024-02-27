@@ -1,0 +1,14 @@
+/home/cake/Facultate/pow/seminar2/bin/Debug/net8.0/seminar2
+/home/cake/Facultate/pow/seminar2/bin/Debug/net8.0/seminar2.deps.json
+/home/cake/Facultate/pow/seminar2/bin/Debug/net8.0/seminar2.runtimeconfig.json
+/home/cake/Facultate/pow/seminar2/bin/Debug/net8.0/seminar2.dll
+/home/cake/Facultate/pow/seminar2/bin/Debug/net8.0/seminar2.pdb
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.AssemblyInfoInputs.cache
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.AssemblyInfo.cs
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.csproj.CoreCompileInputs.cache
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.dll
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/refint/seminar2.dll
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.pdb
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/seminar2.genruntimeconfig.cache
+/home/cake/Facultate/pow/seminar2/obj/Debug/net8.0/ref/seminar2.dll

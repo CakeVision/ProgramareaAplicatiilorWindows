@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace _01_AccessorsDelegateInterface
+{
+    class Prod
+    {
+        private string denum = "Noname";
+        private int cant=0;
+        public string Denum
+        {
+            get { return denum; }
+            set 
+            {
+                if (value.Length > 0)
+                    denum = value;
+                else denum = "FaraNUme";
+            }  
+        }
+        public double Pret { get; set; }
+        public int Cant
+        {
+            get => cant;
+            set => cant = value;
+        }
+        public Prod() { }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}

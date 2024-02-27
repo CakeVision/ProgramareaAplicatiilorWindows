@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Os0Dqz3+v1dFhHGjOcPM4nisMiRjloCf48SqQv1Yr5XuW7L9BNbZuAGed43w9/dQm16zVbWhJS75eQdG8ElYXg==",
+  "success": true,
+  "projectFilePath": "/home/cake/Facultate/pow/seminar2/seminar2.csproj",
+  "expectedPackageFiles": [
+    "/home/cake/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
