@@ -1,1 +1,1 @@
-Momentan doar seminarul are commenturi. Comentariile pentru cursuri vor incepe de la cursul3.
+Only the seminars have comments at the moment. The courses will be commented starting with the 3rd.
